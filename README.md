@@ -4,9 +4,11 @@ Guia de sites utilizados e que são relacionados a Data Science, Statistics, Mac
 
 ### Data Science ###
 
-* Contém estatísticas básicas e dicas para a área de estatística
+* Estatísticas básicas e dicas para a área de estatística
 [Manipulando Dados](http://manipulandodados.com.br/)
 
+* Blog específico para Data Science
+[Analytics Vidhya](https://www.analyticsvidhya.com/)
 
 ### Computação ###
 

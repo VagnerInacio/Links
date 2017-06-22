@@ -2,7 +2,7 @@
 
 Guia de sites utilizados e que são relacionados a Data Science, Statistics, Machine Learning, Deep Learning, Computers, DataMining e Python.
 
-### Data Science ###
+### **Data Science** ###
 
 * Estatísticas básicas e dicas para a área de estatística
 [Manipulando Dados](http://manipulandodados.com.br/)

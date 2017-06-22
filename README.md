@@ -1,4 +1,4 @@
-# ESSENTIAL LINKS  #
+# ESSENTIAL LINKS e TREINAMENTO A FAZER  #
 
 Guia de sites utilizados e que são relacionados a Data Science, Statistics, Machine Learning, Deep Learning, Computers, DataMining e Python.
 
@@ -26,7 +26,7 @@ Guia de sites utilizados e que são relacionados a Data Science, Statistics, Mac
 * Code review
 * Other guidelines
 
-### Who do I talk to? ###
+### Treinamentos ###
 
 * Repo owner or admin
 * Other community or team contact

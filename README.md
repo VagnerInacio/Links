@@ -1,4 +1,4 @@
-# ESSENTIAL LINKS e TREINAMENTOS A FAZER  #
+# ESSENTIAL LINKS & TRAINNG  #
 
 Guia de sites utilizados e que são relacionados a Data Science, Statistics, Machine Learning, Deep Learning, Computers, DataMining e Python.
 
@@ -23,8 +23,8 @@ Guia de sites utilizados e que são relacionados a Data Science, Statistics, Mac
 [O’Reilly Data Newsletter](http://www.oreilly.com/data/newsletter.html)
 
 * Pesquisas em Data Science
-[Data Science 101](http://101.datascience.community/)
-[Chris Stucchio](https://www.chrisstucchio.com/)
+  * [Data Science 101](http://101.datascience.community/)
+  * [Chris Stucchio](https://www.chrisstucchio.com/)
 
 ### **Computação** ###
 
@@ -46,3 +46,12 @@ Guia de sites utilizados e que são relacionados a Data Science, Statistics, Mac
 
 * Repo owner or admin
 * Other community or team contact
+
+### Datasets for Data Science
+
+* Simple & Generic Datasets
+  * [DATA.GOV](https://www.data.gov/)
+  * [Open Governament Data Platform India](https://data.gov.in/)
+  * [World Bank Open Data](http://data.worldbank.org/)
+  * [Reserve Bank of India](https://rbi.org.in/Scripts/Statistics.aspx)
+  * [Data and code behind the stories and interactives at FiveThirtyEight](https://github.com/fivethirtyeight/data)

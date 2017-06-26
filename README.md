@@ -23,8 +23,8 @@ Guia de sites utilizados e que são relacionados a Data Science, Statistics, Mac
 [O’Reilly Data Newsletter](http://www.oreilly.com/data/newsletter.html)
 
 * Pesquisas em Data Science
-  * [Data Science 101](http://101.datascience.community/)
-  * [Chris Stucchio](https://www.chrisstucchio.com/)
+ * [Data Science 101](http://101.datascience.community/)
+ * [Chris Stucchio](https://www.chrisstucchio.com/)
 
 * Escrevendo sobre Data Science
 [DataQuest](https://www.dataquest.io/blog/)

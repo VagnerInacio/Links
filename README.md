@@ -26,6 +26,10 @@ Guia de sites utilizados e que são relacionados a Data Science, Statistics, Mac
   * [Data Science 101](http://101.datascience.community/)
   * [Chris Stucchio](https://www.chrisstucchio.com/)
 
+* Escrevendo sobre Data Science
+[DataQuest](https://www.dataquest.io/blog/)
+
+
 ### **Computação** ###
 
 * Summary of set up

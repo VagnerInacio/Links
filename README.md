@@ -22,7 +22,11 @@ Guia de sites utilizados e que são relacionados a Data Science, Statistics, Mac
 * O’Reilly Data Newsletter
 [O’Reilly Data Newsletter](http://www.oreilly.com/data/newsletter.html)
 
-### Computação ###
+* Pesquisas em Data Science
+[Data Science 101](http://101.datascience.community/)
+[Chris Stucchio](https://www.chrisstucchio.com/)
+
+### **Computação** ###
 
 * Summary of set up
 [Hacker News](https://news.ycombinator.com/)

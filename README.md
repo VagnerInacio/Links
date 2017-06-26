@@ -1,4 +1,4 @@
-# ESSENTIAL LINKS e TREINAMENTO A FAZER  #
+# ESSENTIAL LINKS e TREINAMENTOS A FAZER  #
 
 Guia de sites utilizados e que são relacionados a Data Science, Statistics, Machine Learning, Deep Learning, Computers, DataMining e Python.
 

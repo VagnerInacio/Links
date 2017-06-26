@@ -23,8 +23,8 @@ Guia de sites utilizados e que são relacionados a Data Science, Statistics, Mac
 [O’Reilly Data Newsletter](http://www.oreilly.com/data/newsletter.html)
 
 * Pesquisas em Data Science
- * [Data Science 101](http://101.datascience.community/)
- * [Chris Stucchio](https://www.chrisstucchio.com/)
+  * [Data Science 101](http://101.datascience.community/)
+  * [Chris Stucchio](https://www.chrisstucchio.com/)
 
 * Escrevendo sobre Data Science
 [DataQuest](https://www.dataquest.io/blog/)
@@ -54,7 +54,7 @@ Guia de sites utilizados e que são relacionados a Data Science, Statistics, Mac
 ### Datasets for Data Science
 
 * Simple & Generic Datasets
-  ** [DATA.GOV](https://www.data.gov/)
+  * [DATA.GOV](https://www.data.gov/)
   * [Open Governament Data Platform India](https://data.gov.in/)
   * [World Bank Open Data](http://data.worldbank.org/)
   * [Reserve Bank of India](https://rbi.org.in/Scripts/Statistics.aspx)
